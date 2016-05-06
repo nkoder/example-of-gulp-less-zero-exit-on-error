@@ -1,0 +1,13 @@
+{
+  "name": "example-of-gulp-less-zero-exit-on-error",
+  "version": "1.0.0",
+  "scripts": {
+    "correct": "gulp correct",
+    "wrong": "gulp wrong"
+  },
+  "author": "",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-less": "3.1.0"
+  }
+}
