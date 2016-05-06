@@ -14,3 +14,11 @@ after `gulp-less` usage.
    is invalid.
     
 Same happens when using `./node_modules/.bin/gulp` instead of `npm run`.
+
+versions
+--------
+
+* `node 5.11.0`
+* `npm 3.8.6`
+* `gulp 3.9.1`
+* `gulp-less 3.1.0`
